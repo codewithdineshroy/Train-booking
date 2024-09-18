@@ -1,0 +1,279 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+
+    height: 100%;
+    width: 100%;
+
+}
+
+.main-nav{
+
+    height: 12%;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    border: 1px solid white;
+    flex-direction: row;
+    
+
+}
+
+
+.img-icon{
+    width: 85px;
+    height: 86px;
+    background-color:  rgb(250, 253, 253);
+    padding-top: 20px;
+
+}
+
+
+
+.link{
+
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+
+}
+ .nav-cont{
+
+      height: 100%;
+      width: 100%;
+      display: flex;
+      background-color: rgb(250, 253, 253);
+      justify-content: space-evenly;
+      justify-items: center;
+      text-align: center;
+      list-style: none;
+      align-items: center;    
+      
+ }
+
+
+ .d1{
+
+      height: 100%;
+      width: 100%;
+      padding-top: 10px;
+      background-color: rgb(32, 107, 183);
+ }
+
+
+ 
+.header{
+
+       height: 10%;
+       width: 100%;
+       display: flex;
+       justify-items: center;
+       justify-content: center;
+       /*background-color: aquamarine;*/
+
+} 
+/* ***************************************** */
+.body-sec{
+  
+          height: 100%;
+          width: 100%;
+          /*background-color: rgb(118, 164, 194);*/
+          padding-left: 30%;
+          justify-content: center;
+          align-items: center;
+}
+
+.div-first{
+    width: 60%;
+    height: 35%;
+    background-color: rgb(213, 237, 237);
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    margin-right: 20px;
+    padding: 20px;
+    
+
+}
+.t1{
+    width: 90%;
+    height: 60%;
+    padding: 10px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: none;
+    
+}
+.btn-one{
+    width: 90%;
+    height: 30%;
+    border-radius: 15px;
+    background-color: rgb(58, 58, 161);
+    color: white;
+    
+}
+.space{
+    width: 60%;
+    height: 30px;
+    /*border: 1px solid black;*/
+    padding-left: 60%;
+    
+
+    
+
+}
+.first-one{
+    width: 90%;
+    height: 30%;
+    padding-left: 20px;
+    /*border: 1px solid black;*/
+    border-radius: 10px;
+    background-color: white; 
+
+}
+/* ************************************************ */
+
+.second-main{
+
+        width: 60%;
+        height: 50%;
+        padding: left 20px;
+        border-radius: 10px;
+        padding-bottom: 10px;
+        background-color: rgb(213, 237, 237);
+        /*border: 1px solid rgb(0, 0, 0);*/
+       
+}
+.page-one{
+    padding: 10px;
+    padding-left: 20px;
+}
+.second-one{
+    width: 90%;
+    height: 20%;
+    padding-left: 20px;
+    margin-left: 20px;
+    /*border: 1px solid black;*/
+    border-radius: 10px;
+    background-color: white;
+
+}
+
+.second-2{
+
+width: 90%;
+height: 20%;
+padding-left:20px ;
+margin-left: 20px;
+background-color: white;
+/*border: 1px solid black;*/
+border-radius: 10px;
+
+}
+
+.btn-two{
+
+    width: 90%;
+    height: 20%;
+    margin-left: 20px;
+    border-radius: 15px;
+    background-color: rgb(58, 58, 161);
+    color: white;
+
+}
+
+
+
+
+.t2{
+    
+    width: 90%;
+    height: 60%;
+    padding: 10px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: none;
+
+}
+.d2{
+
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(164, 208, 225);
+}
+
+.d3{
+
+    height: 100%;
+    width: 100%;
+    padding-bottom: 10px;
+}
+
+
+.main-div{
+
+    height: 60%;
+    width: 100%;
+    display: flex;
+    padding: 15px;
+    background-color: rgb(196, 196, 213);
+
+
+}
+
+.div-1{
+    height: 50%;
+    width: 20%;
+    /*background-color: rgb(170, 117, 51);*/
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+.link-1{
+
+   text-decoration: none;
+   color: black;
+
+}
+
+.div-2{
+
+      height: 50%;
+      width: 20%;
+      /*background-color: rgb(109, 82, 135);*/
+      text-align: center;
+
+}
+
+.div-3{
+
+
+     height: 50%;
+     width: 20%;
+     /*background-color: aquamarine;*/
+     text-align: center;
+}
+
+.div-4{
+
+    height: 50%;
+    width: 20%;
+    /*background-color: burlywood;*/
+    text-align: center;
+}
+
+.div-5{
+    padding: 10px;
+    height: 50%;
+    width: 20%;
+    text-align: center;
+}
